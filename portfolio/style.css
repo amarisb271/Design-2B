@@ -1,0 +1,15 @@
+h1 {
+    color:rgb(0, 0, 0); 
+    font-size: 100px;
+    font-family: 'arial';
+    padding: 5px;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'arial';
+}
+
+h3 {
+    font-family: 'arial';
+}
