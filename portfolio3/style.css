@@ -47,10 +47,11 @@ ul#nav {
             }
             
                 #header h1 {
-                    font: 38px Georgia, Serif; color: #000000; letter-spacing: 2px; margin: 0 0 20px 0;
+                    font: 38px Georgia, Serif; color: #616369; letter-spacing: 2px; margin: 0 0 20px 0;
+                    font-size: 60px;
                 }
                 #header h2 {
-                    width: 510px; font: 30px Georgia, Serif; color: #000000; letter-spacing: 2px; margin: 0 0 20px 0;
+                    width: 510px; font: 30px Georgia, Serif; color: #616369; letter-spacing: 2px; margin: 0 0 20px 0;
         
                 }
                 #header p.btn a {
@@ -68,7 +69,26 @@ ul#nav {
                     #content h3 {
                         font: 26px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
                     }
+
+                    #content h4 {
+                        color: #616369; 
+                        font-size: 30px;
+                        font-family: 'Open Sans'; 
+                        text-align: center;
+                        font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+                    }
                     
+                    #content h5 {
+                        color: white; 
+                        font-size: 30px;
+                        font-family: 'Open Sans'; 
+                        margin: 10px;
+                        padding: 5px;
+                        background: #616369;
+                        text-align: center;
+                        font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+                        /* border: 1px solid palevioletred; */
+                    }
                     #content p {
                         margin: 0 0 30px 0;
                     }
@@ -110,9 +130,28 @@ ul#nav {
                                 color: #671111;
                             }
                             
+                        .one {
+                            width: 500px;
+                            margin: 10px;
+                            position: center;
+                            background: white;
+                        }
+                        #content h6 {
+                            color: white; 
+                            font-size: 30px;
+                            font-family: 'Open Sans'; 
+                            margin: 10px;
+                            padding: 5px;
+                            background: #616369;
+                            text-align: center;
+                            font: 30px Georgia, Serif; letter-spacing: 2px; margin: 0 0 20px 0;
+                            /* border: 1px solid palevioletred; */
+                        }
 
-                .aclogo {
-                    width: 20px;
-                    height: 10px;
-                }
-                
+                        .two {
+                            width: 500px;
+                            margin: 10px;
+                            position: center;
+                            background: white;
+                        }
+                        
